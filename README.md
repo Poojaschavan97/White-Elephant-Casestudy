@@ -101,7 +101,7 @@ Identified structural limitations and improvement areas.
 The Business Catalogue represents the structured overview of system capabilities, services, and booking features designed for The White Elephant hotel. It supports both private and corporate guests and aligns with the hotel’s 90% occupancy target.
 
 <p align="center">
-  <img src="assets/business catalouge.png" width="750">
+  <img src="assets/business catelouge.png" width="750">
 </p>
 
 ---
